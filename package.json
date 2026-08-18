@@ -1,0 +1,16 @@
+{
+  "name": "sally-coach-console",
+  "version": "1.0.0",
+  "description": "Realtime web console nhan du lieu tu Sally Coach (moi format) va hien thi tren web",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.17.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
